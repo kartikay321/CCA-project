@@ -1,0 +1,14 @@
+{
+  "resourceName": "s3199bf293",
+  "policyUUID": "199bf293",
+  "bucketName": "ccaproject5ccab84b03cc405ab4117169d457dee2",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

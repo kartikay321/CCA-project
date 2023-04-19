@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "ccaprojectdc046055": {}
+      },
+      "api": {
+        "ccaproject": {}
+      },
+      "storage": {
+        "s3199bf293": {}
       }
     }
   }
